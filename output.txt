@@ -1,0 +1,7 @@
+Total Number of Words: 8
+python: 1
+course: 3
+deep: 1
+learning: 1
+neural: 1
+networks: 1
